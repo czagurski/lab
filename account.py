@@ -1,5 +1,5 @@
 class Account:
-    def __init__(self, name):
+    def __init__(self, name:str):
         pass
 
     def deposit(self, amount):
